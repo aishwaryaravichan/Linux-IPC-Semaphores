@@ -120,6 +120,7 @@ int main() {
 }
 ```
 ## OUTPUT
+
 $ ./sem.o 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e717dd8-151d-4c38-81c2-9edcd99282be" />
 $ ipcs
